@@ -1,4 +1,4 @@
-CoffeeScript = require "coffee-script"
+CoffeeScript = require "iced-coffee-script"
 {preprocess} = require "./preprocessor"
 {indent}     = require "./util"
 

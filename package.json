@@ -14,7 +14,6 @@
   }
 , "dependencies":
   { "strscan": ">=1.0.1"
-  , "coffee-script": ">=1.2.0"
   }
 , "devDependencies":
   { "nodeunit": ">=0.6.4"
